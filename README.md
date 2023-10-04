@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Czauder/Czauder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Przemek Czauderna](https://img.shields.io/badge/LinkedIn%20Przemek%20Czauderna-%230077B5?style=flat-square&logo=linkedin&colorB=0077B5&logoColor=white)](https://www.linkedin.com/in/przemek-czauderna/)
 
-Here are some ideas to get you started:
+🚀 Software Maverick | Bridge Builder 🌉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Agile leader & team catalyst. Roadblocks? I’m on it! <br>
+🛠 Crafting scalable backends with C#, .NET & Event Sourcing magic.  <br>
+🎨 Turning mockups into masterpieces with Angular & TypeScript.  <br>
+🌟 Pushing boundaries, one line of code at a time. <be>
+
+
+
+
+
+
+
+
